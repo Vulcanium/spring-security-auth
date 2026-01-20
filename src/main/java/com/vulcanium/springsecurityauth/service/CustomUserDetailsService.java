@@ -1,4 +1,4 @@
-package com.vulcanium.springsecurityauth.configuration;
+package com.vulcanium.springsecurityauth.service;
 
 import com.vulcanium.springsecurityauth.model.DbUser;
 import com.vulcanium.springsecurityauth.repository.DbUserRepository;
